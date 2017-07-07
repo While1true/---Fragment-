@@ -1,6 +1,8 @@
+
 # ---Fragment-
 你所不知道的fragment的妙用，解放麻烦的OnActivityResult
 ### 你所不知道的Fragment的妙用
+[GitHub传送门](https://github.com/While1true/JSSample/tree/master)
 ![pic](http://upload-images.jianshu.io/upload_images/6456519-1eb8c8d4884d9403.gif?imageMogr2/auto-orient/strip)
 
 
